@@ -1,0 +1,5 @@
+print("program to convert fahrenheit to celsius")
+f = input("enter fahreenheit value")
+celsius = (float(f) - 32) * 0.5
+
+print("convert fahrenheit to celsius with fahrenheit value of ",f, "is ",celsius)
